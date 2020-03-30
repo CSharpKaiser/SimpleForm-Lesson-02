@@ -6,7 +6,7 @@ Channel:
 https://www.youtube.com/channel/UCEqoUhyByW018n_P395u8BQ
 
 Lesson Video:
-
+https://youtu.be/g-7nQkw9tgc
 
 In this tutorial:
 
