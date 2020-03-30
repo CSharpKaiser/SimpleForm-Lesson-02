@@ -1,6 +1,6 @@
-# SimpleForm-Lesson-02
+# SimpleForm-Tutorial-02
 
-Lesson 02 in the Simple Form series about learning to program Winforms in C# on Windows
+Tutorial 02 in the Simple Form series about learning to program Winforms in C# on Windows
 
 Channel:
 https://www.youtube.com/channel/UCEqoUhyByW018n_P395u8BQ
@@ -8,7 +8,7 @@ https://www.youtube.com/channel/UCEqoUhyByW018n_P395u8BQ
 Lesson Video:
 
 
-In this lesson you will:
+In this tutorial:
 
 Create a Class representing a Person
 -  With several properties for Title, Forename, Surname
